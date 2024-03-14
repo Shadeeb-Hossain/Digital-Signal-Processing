@@ -28,6 +28,11 @@ _Noisy file_ : noisy.wav
 Butterworth filter can also be used to reduce the noise in an audio file. Butterworth filter is maximally flat ( that means it has no ripple 
 in the passband and produces zero in the stop band. 
 
+Butterworth filter is used to remove the “noise” in the input audio file labelled “noisy.wav”. 
+
+The cut-off frequency was kept constant at 2 kHz. The order of the filter was varied to remove the noise effect from the audio file and save it as “filtered_output_butterworth.wav”. Initially when the order of the filter was ‘2’, there was still noise in the signal. However , when the order was increased to ‘4’ or ‘6’, it was able to eliminate the noise embedded in the audio file. 
+
+
 _Matlab code _: butterworth.m
 
 _Butterworth filtered signal : filtered_output_butterworth.wav 
