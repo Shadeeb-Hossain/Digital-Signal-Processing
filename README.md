@@ -1,10 +1,10 @@
-**Designing a Filter to reduce noise**
+**Designing a Filter to reduce noise in an audio file**
 
 ----------------------------------------------------------
 
 **Folder: K-means Filter**
 
-K-means moving average filter is used to reduce random noise in a signal. 
+K-means moving average filter is used to reduce random noise in an audio file. 
 
 The following Github Repository contains the (i) Matlab code (ii) noisy signal and (iii) filtered signal using K-means moving average filter. 
 
@@ -17,7 +17,7 @@ _Noisy file_ : noisy.wav
 ----------------------------------------------------------------------
 **Folder: Butterworth Filter**
 
-Butterworth filter can also be used to reduce the noise in a signal file. Butterworth filter is maximally flat ( that means it has no ripple 
+Butterworth filter can also be used to reduce the noise in an audio file. Butterworth filter is maximally flat ( that means it has no ripple 
 in the passband and produces zero in the stop band. 
 
 _Matlab code _: butterworth.m
