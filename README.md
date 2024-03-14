@@ -40,6 +40,15 @@ _Butterworth filtered signal : filtered_output_butterworth.wav
 _Noisy file_ : noisy.wav
 
 
+**Comparison between "Butterworth Filter" and "K-means Averaging filter"**
+
+The Butterworth filter provides a better noise reduction capability compared to the counterpart, K-means averaging filter  as Butterworth can attenuate high frequency noise signals while still preserving the low frequency speech components. 
+
+Another problem with K-means averaging filter is that it can cause “blurring” as seen in the generated MATLAB output graph file . 
+
+This “blurring” effect is evident especially in large K- values ( which was high in our case ~ 50 to suppress the noise). 
+
+The blurring can reduce speech clarity especially in high frequency components of the signal. 
 
 ----------------------------------------------------------------------------------------
 
