@@ -1,6 +1,8 @@
-**Designing a K-means Average Filter to reduce noise**
+**Designing a Filter to reduce noise**
 
 ----------------------------------------------------------
+
+**Folder: K-means Filter**
 
 K-means moving average filter is used to reduce random noise in a signal. 
 
