@@ -6,6 +6,14 @@
 
 K-means moving average filter is used to reduce random noise in an audio file. 
 
+K-means moving average filter helps to reduce the noise in the signal. 
+
+The following MATLAB code is used to implement the filter that reads the audio file “noisy.wav” and uses k-means average filtering to produce a “clean/noise-free” audio file 
+Labelled “filtered_output.wav”. 
+
+Different values of “k” were used . When k was 10 or lower there was still noise in the audio file. However when higher values of ‘k’ was adjusted to, I was able to implement a “noise-free" audio file. 
+
+
 The following Github Repository contains the (i) Matlab code (ii) noisy signal and (iii) filtered signal using K-means moving average filter. 
 
 _Matlab code _: part_k_means.m
