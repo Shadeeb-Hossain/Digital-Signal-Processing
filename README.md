@@ -10,14 +10,32 @@ The following Github Repository contains the (i) Matlab code (ii) noisy signal a
 
 _Matlab code _: part_k_means.m
 
+_K-means filtered signal : filtered_output.wav_
+
 _Noisy file_ : noisy.wav
 
-_K-means filtered signal_ : filtered_output.wav
+----------------------------------------------------------------------
+**Folder: Butterworth Filter**
+
+Butterworth filter can also be used to reduce the noise in a signal file. Butterworth filter is maximally flat ( that means it has no ripple 
+in the passband and produces zero in the stop band. 
+
+_Matlab code _: butterworth.m
+
+_Butterworth filtered signal : filtered_output_butterworth.wav 
+
+_Noisy file_ : noisy.wav
+
+
+
+----------------------------------------------------------------------------------------
 
 **Video Tutorial Link :**
 
-https://www.youtube.com/watch?v=rOnj_SiTd3g
+https://www.youtube.com/watch?v=rOnj_SiTd3g   _ _Designing a K-means Filter_
 
+https://www.youtube.com/watch?v=RtjCrSXVBxs   - __Designing a Butterworth Filter
+_
 ![image](https://github.com/Shadeeb-Hossain/Digital-Signal-Processing/assets/154857980/331bfc15-cb92-4b54-82f2-376dc31eaf00)
 
 
