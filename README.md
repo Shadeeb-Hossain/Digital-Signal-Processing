@@ -50,13 +50,28 @@ This “blurring” effect is evident especially in large K- values ( which was 
 
 The blurring can reduce speech clarity especially in high frequency components of the signal. 
 
-----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------**
+
+**Identifying fundamental frequency in an audio file****
+
+
+fftshift() allows to rearrange the Fourier transform of the signal by shifting the zero-frequency component to the center of the array. 
+
+Folder : fftshift.zip 
+
+MATLAB code:part_b.m
+
+input audio file : part_a.wav 
+
+Report. pdf discusses the algorithm and breaks down the steps to generate the MATLAB code to identify the pitch frequency. 
 
 **Video Tutorial Link :**
 
 https://www.youtube.com/watch?v=rOnj_SiTd3g   _ _Designing a K-means Filter_
 
 https://www.youtube.com/watch?v=RtjCrSXVBxs   - __Designing a Butterworth Filter
+
+https://www.youtube.com/watch?v=KT7C8ZPjkW0   -_Identifying fundamental frequency -the pitch frequency in an audio file 
 _
 ![image](https://github.com/Shadeeb-Hossain/Digital-Signal-Processing/assets/154857980/331bfc15-cb92-4b54-82f2-376dc31eaf00)
 
