@@ -64,6 +64,8 @@ MATLAB code:part_b.m
 input audio file : part_a.wav 
 
 Report. pdf discusses the algorithm and breaks down the steps to generate the MATLAB code to identify the pitch frequency. 
+...........................................................................................................................
+...........................................................................................................................
 
 **Video Tutorial Link :**
 
