@@ -67,8 +67,7 @@ _MATLAB code_:part_b.m
 _input audio file_ : part_a.wav 
 
 _Report. pdf discusses the algorithm and breaks down the steps to generate the MATLAB code to identify the pitch frequency. _
-................................................................................................................................................
-
+-------------------------------------------------------------------------------------------------------------------------------------
 **Video Tutorial Link :**
 
 https://www.youtube.com/watch?v=rOnj_SiTd3g   _ _Designing a K-means Filter_
