@@ -50,7 +50,7 @@ This “blurring” effect is evident especially in large K- values ( which was 
 
 The blurring can reduce speech clarity especially in high frequency components of the signal. 
 
-----------------------------------------------------------------------------------------**
+---------------------------------------------------------------------------------------------------------------------------------
 
 **Identifying fundamental frequency in an audio file**
 
@@ -67,7 +67,7 @@ _MATLAB code_:part_b.m
 _input audio file_ : part_a.wav 
 
 _Report. pdf discusses the algorithm and breaks down the steps to generate the MATLAB code to identify the pitch frequency. _
-...........................................................................................................................
+................................................................................................................................................
 
 **Video Tutorial Link :**
 
