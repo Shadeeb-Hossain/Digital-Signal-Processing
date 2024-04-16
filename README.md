@@ -60,11 +60,11 @@ The blurring can reduce speech clarity especially in high frequency components o
 
 -fftshift() allows to rearrange the Fourier transform of the signal by shifting the zero-frequency component to the center of the array.
 
-_Folder _: fftshift.zip 
+_Folder _:    fftshift.zip 
 
-_MATLAB code_:part_b.m
+_MATLAB code_:     part_b.m
 
-_input audio file_ : part_a.wav 
+_input audio file_ :  part_a.wav 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 **Video Tutorial Link :**
