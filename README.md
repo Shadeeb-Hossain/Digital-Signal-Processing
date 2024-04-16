@@ -52,7 +52,7 @@ The blurring can reduce speech clarity especially in high frequency components o
 
 ----------------------------------------------------------------------------------------**
 
-**Identifying fundamental frequency in an audio file****
+**Identifying fundamental frequency in an audio file**
 
 
 fftshift() allows to rearrange the Fourier transform of the signal by shifting the zero-frequency component to the center of the array. 
