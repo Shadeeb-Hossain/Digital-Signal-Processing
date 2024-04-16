@@ -54,16 +54,19 @@ The blurring can reduce speech clarity especially in high frequency components o
 
 **Identifying fundamental frequency in an audio file**
 
+-An audio recording of file is used as an input labelled 'part_a.wav'. 
 
-fftshift() allows to rearrange the Fourier transform of the signal by shifting the zero-frequency component to the center of the array. 
+-fft helps to identify the frequency domain of the signal . 
 
-Folder : fftshift.zip 
+-fftshift() allows to rearrange the Fourier transform of the signal by shifting the zero-frequency component to the center of the array.
 
-MATLAB code:part_b.m
+_Folder _: fftshift.zip 
 
-input audio file : part_a.wav 
+_MATLAB code_:part_b.m
 
-Report. pdf discusses the algorithm and breaks down the steps to generate the MATLAB code to identify the pitch frequency. 
+_input audio file_ : part_a.wav 
+
+_Report. pdf discusses the algorithm and breaks down the steps to generate the MATLAB code to identify the pitch frequency. _
 ...........................................................................................................................
 
 **Video Tutorial Link :**
